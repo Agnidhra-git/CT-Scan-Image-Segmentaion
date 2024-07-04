@@ -1,4 +1,4 @@
-# CT-Scan-Image-Segmentaion  
+# CT-Scan-Image-Segmentation  
 ## Project Description  
 This project explores the application of deep learning techniques for the segmentation of CT scan images, a crucial task in medical image analysis. The primary goal is to accurately identify and delineate anatomical structures or regions of interest within CT scans, aiding in diagnosis and treatment planning.  
 ## Key Features:  
